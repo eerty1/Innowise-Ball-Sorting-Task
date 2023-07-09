@@ -4,18 +4,16 @@ Ball sorting application
 
 ## Task Requirements
 
-Сортировка мячей:
+Ball sorting application:
 
-Есть фабрика по производству мячей (футбольные, баскетбольные и тп). 
-Необходимо создать иерархию классов, которая будет позволять сортировать мячи в корзине с возможностью выбора параметров (например, по размеру, по цвету (заранее определив порядок цветов), по классу и тп).
- Варианты сортировки использовать:
- 1. Сортировка слиянияем
- 2. Быстрая сортировка
- 3. Пирамидальная сортировка
- 4. Сортировка на двоичном дереве поиска
- 5. Сортировка чет-нечет
-
-Использование параллельных сортировок с многопоточной средой будет большим плюсом.
+There is a factory, that produced balls (football, basketball, etc).
+Create a hierarchy of classes that will allow you to sort the balls in the basket with the possibility to select parameters (for example, by size, by color (having previously determined the order of colors), by class, etc).
+ At least one of the provided algorithms have to be used:
+ 1. Merge sort
+ 2. Quick sort
+ 3. Heap sort
+ 4. Tree sort
+ 5. Odd-even sort
 
 ## Installation
 
